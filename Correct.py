@@ -13,4 +13,5 @@ print("Car:", car)
 print("Amount:", amount)
 for i in range(3):
     print("Thank you")
+
 print("End")
